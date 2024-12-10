@@ -53,16 +53,7 @@ This project is a simple front-end implementation of Google Search, Google Image
 3. Navigate to the **Image Search** or **Advanced Search** pages using the links in the top-right corner.
 4. Perform image searches or advanced searches as needed.
 
-## Example Screenshots
 
-### Google Search Page
-![Google Search Page](https://via.placeholder.com/800x400)
-
-### Google Image Search Page
-![Google Image Search Page](https://via.placeholder.com/800x400)
-
-### Google Advanced Search Page
-![Google Advanced Search Page](https://via.placeholder.com/800x400)
 
 ## Technologies Used
 
